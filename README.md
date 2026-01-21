@@ -2,6 +2,10 @@
 
 A curated collection of CAD projects including parts, assemblies, drawings, and shareable exports, organized for reuse and versioned design iteration. This repository is intended as a clean portfolio and working archive for mechanical design work, with consistent naming and documentation practices aligned with general GitHub repository best practices. 
 
+<!-- Put demo.gif in your repo, e.g. assets/demo.gif -->
+<p align="center">
+  <img src="media/camfollower.gif" alt="Assembly animation preview (GIF)" width="900">
+</p>
 
 
 ## What this repo contains
