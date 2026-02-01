@@ -7,8 +7,8 @@ A curated collection of CAD projects including parts, assemblies, drawings, and 
   <img src="media/camfollower.gif" alt="Assembly animation preview (GIF)" width="900">
 </p> -->
 <p align="center">
-  <a href="media/camfollower.gif">
-    <img src="media/camfollower.gif" alt="Click to play full video" width="900">
+  <a href="media/drone.gif">
+    <img src="media/drone.gif" alt="Click to play full video" width="900">
   </a>
 </p>
 
