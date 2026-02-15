@@ -52,8 +52,8 @@ Extracted from the assembly drawings:
 
 ## Repository Contents
 
-Current structure (update as you add files):
-
+Current structure:
+```
 projects/00. Drone/
 ├── assembly/                          # Project assembly
 ├── parts/                             # Individual parts
@@ -61,7 +61,7 @@ projects/00. Drone/
 ├── animation.gif
 ├── animation.mp4
 ├── drawings.pdf
-
+```
 ---
 
 ## How to Use
@@ -121,3 +121,15 @@ Stand: 50mm x 12.5mm base
 
 MIT License – Free to use, modify, and distribute for any purpose.
 See LICENSE file for details.
+
+
+
+
+
+
+
+
+
+
+
+
