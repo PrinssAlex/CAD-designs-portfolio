@@ -1,0 +1,16 @@
+[StartTime]
+bracket-Bracket.MFC=8s
+[SolverState]
+bracket-Bracket.MFC=2
+[MainFrame]
+bracket-Bracket.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPAMBAAAAAHBBAAAAAICDAAAAAKOBAAAAA
+[ShowMin]
+bracket-Bracket.MFC=No
+[SolverType]
+bracket-Bracket.MFC=Linear Analysis
+[StudyType]
+bracket-Bracket.MFC=0
+[StudyName]
+bracket-Bracket.MFC=Bracket
+[Solver]
+bracket-Bracket.MFC=Iterative
