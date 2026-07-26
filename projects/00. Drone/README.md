@@ -1,4 +1,4 @@
-# 🚁 Quadcopter UAV Mechanical Assembly
+# 🚁 Drone: Quadcopter UAV Mechanical Assembly
 
 > A complete parametric CAD model of a quadcopter unmanned aerial vehicle (UAV) developed in SolidWorks, demonstrating mechanical design, assembly modeling, engineering documentation, and design for manufacturability principles.
 
@@ -318,10 +318,10 @@ This project is part of my personal CAD Engineering Portfolio and is provided fo
 
 **Prince Alex Ogbodum**
 
-Robotics Engineer • CAD Designer • Mechanical Design Enthusiast
+Robotics Engineer • CAD Designer • Mechanical Design Engineer
 
 GitHub: **https://github.com/PrinssAlex**
 
-LinkedIn: **<YOUR LINKEDIN URL>**
+LinkedIn: **https://linkedin.com/in/prince-alex-ogbodum**
 
-Portfolio: **<YOUR WEBSITE>**
+Portfolio: **https://prinssalex.github.io/**
