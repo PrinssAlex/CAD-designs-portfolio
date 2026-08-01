@@ -200,8 +200,8 @@ Planned additions include:
 | Category | Current |
 |----------|--------:|
 | Featured Projects | 2 |
-| Total CAD Projects | *Update as portfolio grows* |
-| Assemblies | *Update* |
+| Total CAD Projects | 2 |
+| Assemblies | 2 |
 | Engineering Drawings | ✔ |
 | Animations | ✔ |
 | Simulations | In Progress |
