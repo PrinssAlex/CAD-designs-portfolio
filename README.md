@@ -54,7 +54,7 @@ Mechanical design of a quadcopter UAV demonstrating parametric modeling, multi-p
 
 SolidWorks • Assembly Design • Robotics • Mechanical Design
 
-➡️ [View Project](projects/00._Drone)
+➡️ [View Project](projects/00.%20Drone)
 
 </td>
 
@@ -70,7 +70,7 @@ Aircraft landing gear mechanism featuring structural components, suspension geom
 
 Mechanical Design • Aerospace • CAD Assembly • Technical Drawings
 
-➡️ [View Project](projects/01.-Aircraft-Landing-Gear)
+➡️ [View Project](projects/01.%20Aircraft%20Landing%20Gear)
 
 </td>
 
