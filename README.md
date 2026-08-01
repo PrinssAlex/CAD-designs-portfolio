@@ -44,7 +44,7 @@ Each project demonstrates a structured engineering workflow, from concept develo
 
 <td width="50%" align="center">
 
-## 🚁 Quadcopter UAV Mechanical Assembly
+## 🚁 Quadcopter UAV Assembly
 
 <img src="assets/drone.gif" width="95%">
 
@@ -54,7 +54,7 @@ Mechanical design of a quadcopter UAV demonstrating parametric modeling, multi-p
 
 SolidWorks • Assembly Design • Robotics • Mechanical Design
 
-➡️ [View Project](projects/00.-Drone)
+➡️ [View Project](projects/00. Drone)
 
 </td>
 
