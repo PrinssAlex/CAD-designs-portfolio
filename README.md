@@ -46,7 +46,7 @@ Each project demonstrates a structured engineering workflow, from concept develo
 
 ## 🚁 Quadcopter UAV Mechanical Assembly
 
-<img src="assets/thumbnails/drone.png" width="95%">
+<img src="assets/thumbnails/drone.gif" width="95%">
 
 Mechanical design of a quadcopter UAV demonstrating parametric modeling, multi-part assemblies, engineering drawings, and animation.
 
@@ -62,7 +62,7 @@ SolidWorks • Assembly Design • Robotics • Mechanical Design
 
 ## ✈️ Aircraft Landing Gear Assembly
 
-<img src="assets/thumbnails/landing-gear.png" width="95%">
+<img src="assets/thumbnails/landing-gear.gif" width="95%">
 
 Aircraft landing gear mechanism featuring structural components, suspension geometry, mechanical joints, and engineering documentation.
 
