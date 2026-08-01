@@ -54,7 +54,7 @@ Mechanical design of a quadcopter UAV demonstrating parametric modeling, multi-p
 
 SolidWorks • Assembly Design • Robotics • Mechanical Design
 
-➡️ [View Project](projects/00.Drone)
+➡️ [View Project](projects/00._Drone)
 
 </td>
 
