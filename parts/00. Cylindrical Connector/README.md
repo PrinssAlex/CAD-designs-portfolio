@@ -27,7 +27,7 @@ The model demonstrates the use of fundamental parametric modeling techniques to 
 
 > Replace this placeholder with your rendered image.
 
-![Part Render](Images/hero.png)
+![Part Render](Images/hero.PNG)
 
 ---
 
