@@ -25,8 +25,6 @@ The model demonstrates the use of fundamental parametric modeling techniques to 
 
 # Preview
 
-> Replace this placeholder with your rendered image.
-
 ![Part Render](Images/hero.PNG)
 
 ---
@@ -139,5 +137,3 @@ Potential enhancements include:
 
 
 Mechanical Design • Robotics • CAD Engineering
-
-GitHub: https://github.com/PrinssAlex
