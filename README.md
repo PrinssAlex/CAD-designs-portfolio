@@ -33,7 +33,7 @@ This repository showcases my experience in:
 - Design for Manufacturing (DfM)
 - Parametric CAD Modeling
 
-Each project demonstrates a structured engineering workflow—from concept development to detailed CAD models, assemblies, technical documentation, and visualization.
+Each project demonstrates a structured engineering workflow, from concept development to detailed CAD models, assemblies, technical documentation, and visualization.
 
 ---
 
@@ -214,10 +214,9 @@ Planned additions include:
 
 Mechanical Design • Robotics • CAD Engineering
 
-- **GitHub:** https://github.com/PrinssAlex
-- **LinkedIn:** *Add your LinkedIn URL*
-- **Portfolio Website:** *Add when available*
-- **Email:** *Add your professional email*
+- GitHub: **https://github.com/PrinssAlex**
+- LinkedIn: **https://linkedin.com/in/prince-alex-ogbodum**
+- Portfolio: **https://prinssalex.github.io/**
 
 ---
 
