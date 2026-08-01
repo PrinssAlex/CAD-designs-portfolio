@@ -1,5 +1,5 @@
 
-# ✈️ Aircraft Landing Gear Mechanical Assembly
+# Aircraft Landing Gear Mechanical Assembly
 
 > A fully parametric aircraft landing gear assembly designed in SolidWorks, demonstrating advanced mechanical design, kinematic assemblies, engineering documentation, and structural component integration.
 
